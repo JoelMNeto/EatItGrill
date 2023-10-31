@@ -1,0 +1,78 @@
+.container__home{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.container__cabecalho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardapio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 5rem;
+}
+
+.cardapio__linha{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+.titulo{
+    padding: 2rem;
+}
+
+.container__footer{
+    padding-top: 5rem;
+}
+
+.texto__card{
+   height: 90px; 
+}
+
+.conteudo__sobre{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1%;
+    padding-left: 3%;
+    row-gap: 2rem;
+}
+
+.texto__lista{
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+.table__item{
+    border: 2px black solid;
+    padding: 0.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.texto__historia{
+    font-size: 24px;
+    font-style: oblique;
+    padding: 0 5% 0 5%;
+}
+
+.conteudo__historia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+}
