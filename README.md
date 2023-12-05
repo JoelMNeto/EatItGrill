@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="assets-pagina/home.png" alt="Início da página" width="686">
+  <img src="assets/assets-pagina/home.jpg" alt="Início da página" width="686">
 </div>
 
 <br>
@@ -34,7 +34,7 @@ A página de cardápio traz uma lista com todos os pratos do restaurante, mostra
 <br>
 
 <div align="center">
-  <img src="assets-pagina/cardapio.png" alt="Cardápio" width="686">
+  <img src="assets/assets-pagina/cardapio.jpg" alt="Cardápio" width="686">
 </div>
 
 <br>
