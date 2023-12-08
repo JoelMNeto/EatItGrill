@@ -48,9 +48,6 @@ A página de cardápio traz uma lista com todos os pratos do restaurante, mostra
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript">
-  <img src="https://skillicons.dev/icons?i=javascript"/>
-</a>
 <a href="https://getbootstrap.com/">
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </a>
